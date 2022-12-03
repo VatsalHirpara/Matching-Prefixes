@@ -5,7 +5,7 @@ The list of prefixes to match should be taken as configuration by your solution.
 you can use. It is not sufficient for your solution to do a linear scan of the list of prefixes.
 
 #### Sample Data
-input_files/sample_prefixes.txt is a list of prefixes, one per line, that can be used to test your implementation. Please use these in your
+input_files/sample_prefixes.txt contains is a list of 264900 prefixes, one per line, that can be used to test your implementation. Please use these in your
 submission, but keep in mind that your solution should work with any list of prefixes.
 
 
